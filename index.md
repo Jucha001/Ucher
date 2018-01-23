@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+Resume
 
-You can use the [editor on GitHub](https://github.com/Jucha001/Ucher/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Objective
+Acquiring Work experience in the field
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Education
+Florida International University, working on Bachelors in IT (2015)
+Associates degree in English Miami Dade College (2015)
+Miami Dade College (2010-14)
+Purdue University (2009-10)
+Diploma Belen Jesuit Preparatory High School (May 2009)
+Coursework in: Programming, Computer Hardware and Software, Advanced Writing/Composition, Logic, Ethics.
 
-### Markdown
+Employment
+Hospital Liaison at Ritecare Medical (2012-2014)
+Assisted elderly with discharge from hospital
+Maintained relations with hospital employees and opened new sales avenues
+Fostered and stimulated growth in Miami-Dade area
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Camp Counselor at Belen Jesuit Preparatory High School (2006-2009)
+Organized and supervised activities for children’s day camp
+Supervised up to 60 children ages 7-9
 
-```markdown
-Syntax highlighted code block
+Volunteer Work
+Community Service Participant, The Palace, Adult Living Facility
+Assisted the Elderly with activities and programs to improve their comfort
 
-# Header 1
-## Header 2
-### Header 3
+Activities
+Member, Belen Jesuit Preparatory Free Thought Society (2008-09)
+Member, Belen Jesuit Preparatory Key Club (2007)
+Member, Belen Jesuit Preparatory Football Team (2006-08)
+Member, Belen Jesuit Preparatory Rowing Club (2003-06)
 
-- Bulleted
-- List
+Personal Skills
+Bilingual(English and Spanish)
+Experience working with and building computers
+Excellent at meshing with a team, capable and engaged team member or leader if needed
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jucha001/Ucher/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+References
+Available on request
